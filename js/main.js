@@ -50,6 +50,9 @@ sr.reveal('.about__text',{delay: 400});
 sr.reveal('.certifications__img',{interval: 200}); 
 
 
+/*SCROLL certifications*/
+sr.reveal('.projects__img',{interval: 200}); 
+
 
 /*SCROLL CONTACT*/
 sr.reveal('.Contact__title',{interval: 200}); 
